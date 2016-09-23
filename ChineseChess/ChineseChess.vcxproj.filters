@@ -63,6 +63,12 @@
     <ClInclude Include="FAlphaBetaEngine.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="TranspositionTable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AlphaBetaAndTT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ChineseChess.cpp">
@@ -99,6 +105,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="FAlphaBetaEngine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TranspositionTable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AlphaBetaAndTT.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
